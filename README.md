@@ -1,2 +1,3 @@
 # calculadoraFaculdade
-Exercício para prática de condicional while, if e else if com uso de número randômico
+ exercicio para pratica de operadores e condicionais - calculadora simples
+
